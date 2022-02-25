@@ -2,6 +2,7 @@
 #PVC(with default  StorageClass),ReplicaSet/StatefulSet & Service For Mongo.
 # storage class, pv, pvc, 
 # configMaps / Secretes
+# Test1
 apiVersion: apps/v1
 kind: Deployment
 metadata:
